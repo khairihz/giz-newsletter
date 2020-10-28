@@ -64,10 +64,10 @@ h2 {
     margin: 0 auto;
     background: white;
     border-collapse: collapse;
+}
 
-    img {
-        max-width: 100%;
-    }
+img {
+    max-width: 100%;
 }
 
 .email-header {
